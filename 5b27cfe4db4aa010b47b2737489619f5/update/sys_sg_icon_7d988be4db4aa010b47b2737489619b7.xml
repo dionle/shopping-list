@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f07b","FontColor":"#c3b137","BackgroundColor":"#c3b137","Name":"icon-Start"}</icon>
+        <name>icon-Start</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-28 17:19:41</sys_created_on>
+        <sys_id>7d988be4db4aa010b47b2737489619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Start</sys_name>
+        <sys_package display_value="Shopping List" source="x_571733_shopping">5b27cfe4db4aa010b47b2737489619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">5b27cfe4db4aa010b47b2737489619f5</sys_scope>
+        <sys_update_name>sys_sg_icon_7d988be4db4aa010b47b2737489619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-28 17:19:41</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
